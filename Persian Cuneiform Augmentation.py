@@ -96,8 +96,8 @@ def process_images(input_folder, output_folder):
             cv2.imwrite(str(output_path), aug_image)
 
 # Set input and output folder paths
-input_folder = r"Persian Cuneiform for Augmentation"  # Replace with your folder
-output_folder = r"Augmented Cuneiform Images"  # Replace with your desired output folder
+input_folder = r"Persian Cuneiform for Augmentation"
+output_folder = r"Augmented Cuneiform Images"  # output folder
 
 # Run the augmentation process
 process_images(input_folder, output_folder)

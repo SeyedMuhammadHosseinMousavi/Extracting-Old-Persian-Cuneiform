@@ -37,8 +37,9 @@ The approach is validated on a custom dataset of 34 Old Persian cuneiform symbol
    - Preservation of ancient scripts in digital form.
    - Enabling future linguistic studies and translations of ancient texts.
 
-
+![image](https://github.com/user-attachments/assets/d8ebdc3f-adb3-4611-925c-a2fc628c7bae)
 ![image](https://github.com/user-attachments/assets/e801b898-471f-44e4-9b71-7903f6ce9b0e)
+![image](https://github.com/user-attachments/assets/6c119c48-77a6-4825-b270-edaa490d323e)
 
 ---
 
@@ -56,6 +57,7 @@ A combination of contour detection and region-based segmentation is used to isol
 ### **3. OCR Integration**
 - A custom-trained Tesseract OCR model is utilized for recognizing Old Persian cuneiform characters.
 - Augmented datasets improve recognition accuracy by adding rotated, flipped, and scaled variations.
+![image](https://github.com/user-attachments/assets/ff4a156f-64a2-494e-a0b3-83d535dbf0c0)
 
 ---
 
@@ -65,6 +67,7 @@ A combination of contour detection and region-based segmentation is used to isol
 - The dataset and techniques significantly reduce recognition errors compared to baseline methods.
 
 ### Example Results:
+![image](https://github.com/user-attachments/assets/98d8fba2-5754-460d-aa2c-e829a73e3a96)
 
 
 ---

@@ -3,7 +3,8 @@
 This repository contains the code and resources for the paper **"Extracting Old Persian Cuneiform Font Out of Noisy Images, Handwritten or Inscription"** paper. The research focuses on developing techniques to extract and recognize Old Persian cuneiform characters from noisy datasets, including inscriptions, handwritten images, and digital scans.
 
 ---
-### Update: A new image augmentor is added.
+### Update1 : A new image augmentor is added. "Persian Cuneiform Augmentation.py"
+### Update2 : A new image augmented dataset is added. "Augmented Cuneiform Images.zip"
 
 ## Abstract
 

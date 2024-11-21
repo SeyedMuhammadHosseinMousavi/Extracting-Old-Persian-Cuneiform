@@ -13,6 +13,8 @@ Old Persian cuneiform is an ancient script used for inscriptions in the Achaemen
 
 The approach is validated on a custom dataset of 34 Old Persian cuneiform symbols, with applications in cultural preservation, digital archiving, and linguistic analysis.
 
+- Link to the paper:
+- https://ieeexplore.ieee.org/abstract/document/8342358
 ---
 
 ## Key Contributions
@@ -34,6 +36,9 @@ The approach is validated on a custom dataset of 34 Old Persian cuneiform symbol
 5. **Applications**:
    - Preservation of ancient scripts in digital form.
    - Enabling future linguistic studies and translations of ancient texts.
+
+
+![image](https://github.com/user-attachments/assets/e801b898-471f-44e4-9b71-7903f6ce9b0e)
 
 ---
 
@@ -61,9 +66,6 @@ A combination of contour detection and region-based segmentation is used to isol
 
 ### Example Results:
 
-| **Input Image**     | **Segmented Characters** | **Recognized Text** |
-|----------------------|--------------------------|----------------------|
-| ![Input](example_images/input.jpg) | ![Segmented](example_images/segmented.jpg) | `𐏃𐏂𐏀`             |
 
 ---
 

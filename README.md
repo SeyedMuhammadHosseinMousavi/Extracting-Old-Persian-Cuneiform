@@ -5,6 +5,7 @@ This repository contains the code and resources for the paper **"Extracting Old 
 ---
 ### Update1 : A new image augmentor is added. "Persian Cuneiform Augmentation.py"
 ### Update2 : A new image augmented dataset is added. "Augmented Cuneiform Images.zip"
+- Kaggle dataset: https://www.kaggle.com/datasets/hosseinmousavi/extracting-old-persian-cuneiform
 
 ## Abstract
 
